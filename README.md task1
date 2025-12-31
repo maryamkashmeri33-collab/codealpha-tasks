@@ -1,0 +1,22 @@
+# Task 1 – Image Gallery
+
+## Description
+This task is an Image Gallery project created using HTML and CSS.
+The gallery displays multiple images in a clean, responsive layout.
+Users can view images in an organized grid format.
+
+## Features
+- Multiple images display
+- Responsive design for different screen sizes
+- Clean and simple layout
+
+## Technologies Used
+- HTML
+- CSS
+
+## How to Run
+1. Clone or download the repository
+2. Open `index.html` in any web browser
+
+## Author
+Maryam Naseem
