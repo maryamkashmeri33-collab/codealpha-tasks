@@ -1,0 +1,22 @@
+# Task 3 – My Portfolio Website
+
+## Description
+This task is a personal Portfolio Website created using HTML, CSS, and JavaScript.
+It showcases my projects, skills, and information about me in a professional layout.
+
+## Features
+- Home, About, Projects, Skills, Contact sections
+- Smooth navigation and animations
+- Responsive design for all devices
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone or download the repository
+2. Open `index.html` in any web browser
+
+## Author
+Maryam Naseem
