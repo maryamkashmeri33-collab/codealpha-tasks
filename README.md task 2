@@ -1,0 +1,22 @@
+# Task 2 – Calculator Project
+
+## Description
+This task is a basic Calculator project using HTML, CSS, and JavaScript.
+It performs arithmetic operations like addition, subtraction, multiplication, and division.
+
+## Features
+- Addition, Subtraction, Multiplication, Division
+- Clear screen functionality
+- User-friendly interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone or download the repository
+2. Open `index.html` in any web browser
+
+## Author
+Maryam Naseem
